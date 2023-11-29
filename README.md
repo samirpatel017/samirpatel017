@@ -11,7 +11,6 @@
     </p>
   <p align="center">
   <a href="https://www.hackerearth.com/@psam4268" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png" alt="hack_ovindu" height="30" width="40" /></a>
-   
    <a href="https://www.hackerrank.com/psam4268" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
    <a href = "mailto: psamir1708@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 
