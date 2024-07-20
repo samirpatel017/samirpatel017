@@ -17,8 +17,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
   </a>
@@ -101,7 +101,9 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samirpatel017&show_icons=true&locale=en&layout=compact" alt="samirpatel017" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samirpatel017&show_icons=true&locale=en&layout=compact" alt="samirpatel017" />
+</p>
 <h3 align="left">Highlights:</h3>
 <ul>
   <li>Data Coordination & Quality Assurance: Skilled in Python, machine learning, and data quality assurance, specializing in automation solutions, data analytics, and problem-solving to support business intelligence and data storytelling.</li>
